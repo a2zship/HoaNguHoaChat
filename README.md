@@ -4,6 +4,7 @@
 
 ## Mở ứng dụng
 
+- **Dùng trên mạng (điện thoại, máy khác):** https://a2zship.github.io/HoaNguHoaChat/. Repo `a2zship/HoaNguHoaChat`. Mỗi lần push lên `main`, GitHub Actions chạy test rồi tự deploy.
 - **Cách nhanh nhất:** bấm đúp `index.html` để mở bằng Chrome hoặc Edge.
 - **Muốn dùng nút "Nói thử" (chấm phát âm):** micro thường bị chặn khi mở file trực tiếp, nên hãy chạy máy chủ xem thử (cổng 3261, xem `QUY_UOC_CONG_DU_AN.md`):
   ```bash
